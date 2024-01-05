@@ -1,0 +1,4 @@
+results/
+crop/*.pt
+test/
+depth/
